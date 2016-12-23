@@ -1,0 +1,99 @@
+Adair County, Iowa	Greenfield, Iowa
+Adams County, Iowa	Corning, Iowa
+Allamakee County, Iowa	Waukon, Iowa
+Appanoose County, Iowa	Centerville, Iowa
+Audubon County, Iowa	Audubon, Iowa
+Benton County, Iowa	Vinton, Iowa
+Black Hawk County, Iowa	Waterloo, Iowa
+Boone County, Iowa	Boone, Iowa
+Bremer County, Iowa	Waverly, Iowa
+Buchanan County, Iowa	Independence, Iowa
+Buena Vista County, Iowa	Storm Lake, Iowa
+Butler County, Iowa	Allison, Iowa
+Calhoun County, Iowa	Rockwell City, Iowa
+Carroll County, Iowa	Carroll, Iowa
+Cass County, Iowa	Atlantic, Iowa
+Cedar County, Iowa	Tipton, Iowa
+Cerro Gordo County, Iowa	Mason City, Iowa
+Cherokee County, Iowa	Cherokee, Iowa
+Chickasaw County, Iowa	New Hampton, Iowa
+Clarke County, Iowa	Osceola, Iowa
+Clay County, Iowa	Spencer, Iowa
+Clayton County, Iowa	Elkader, Iowa
+Clinton County, Iowa	Clinton, Iowa
+Crawford County, Iowa	Denison, Iowa
+Dallas County, Iowa	Adel, Iowa
+Davis County, Iowa	Bloomfield, Iowa
+Decatur County, Iowa	Leon, Iowa
+Delaware County, Iowa	Manchester, Iowa
+Des Moines County, Iowa	Burlington, Iowa
+Dickinson County, Iowa	Spirit Lake, Iowa
+Dubuque County, Iowa	Dubuque, Iowa
+Emmet County, Iowa	Estherville, Iowa
+Fayette County, Iowa	West Union, Iowa
+Floyd County, Iowa	Charles City, Iowa
+Franklin County, Iowa	Hampton, Iowa
+Fremont County, Iowa	Sidney, Iowa
+Greene County, Iowa	Jefferson, Iowa
+Grundy County, Iowa	Grundy Center, Iowa
+Guthrie County, Iowa	Guthrie Center, Iowa
+Hamilton County, Iowa	Webster City, Iowa
+Hancock County, Iowa	Garner, Iowa
+Hardin County, Iowa	Eldora, Iowa
+Harrison County, Iowa	Logan, Iowa
+Henry County, Iowa	Mount Pleasant, Iowa
+Howard County, Iowa	Cresco, Iowa
+Humboldt County, Iowa	Dakota City, Iowa
+Ida County, Iowa	Ida Grove, Iowa
+Iowa County, Iowa	Marengo, Iowa
+Jackson County, Iowa	Maquoketa, Iowa
+Jasper County, Iowa	Newton, Iowa]]
+Jefferson County, Iowa	Fairfield, Iowa
+Johnson County, Iowa	Iowa City, Iowa
+Jones County, Iowa	Anamosa, Iowa
+Keokuk County, Iowa	Sigourney, Iowa
+Kossuth County, Iowa	Algona, Iowa
+Lee County, Iowa	Fort Madison, Iowa and Keokuk, Iowa
+Linn County, Iowa	Cedar Rapids, Iowa
+Louisa County, Iowa	Wapello, Iowa
+Lucas County, Iowa	Chariton, Iowa
+Lyon County, Iowa	Rock Rapids, Iowa
+Madison County, Iowa	Winterset, Iowa
+Mahaska County, Iowa	Oskaloosa, Iowa
+Marion County, Iowa	Knoxville, Iowa
+Marshall County, Iowa	Marshalltown, Iowa
+Mills County, Iowa	Glenwood, Iowa
+Mitchell County, Iowa	Osage, Iowa
+Monona County, Iowa	Onawa, Iowa
+Monroe County, Iowa	Albia, Iowa
+Montgomery County, Iowa	Red Oak, Iowa
+Muscatine County, Iowa	Muscatine, Iowa
+Obrien County, Iowa	Primghar, Iowa
+Osceola County, Iowa	Sibley, Iowa
+Page County, Iowa	Clarinda, Iowa
+Palo Alto County, Iowa	Emmetsburg, Iowa
+Plymouth County, Iowa	Le Mars, Iowa
+Pocahontas County, Iowa	Pocahontas, Iowa
+Polk County, Iowa	Des Moines, Iowa
+Pottawattamie County, Iowa	Council Bluffs, Iowa
+Poweshiek County, Iowa	Montezuma, Iowa
+Ringgold County, Iowa	Mount Ayr, Iowa
+Sac County, Iowa	Sac City, Iowa
+Scott County, Iowa	Davenport, Iowa
+Shelby County, Iowa	Harlan, Iowa
+Sioux County, Iowa	Orange City, Iowa
+Story County, Iowa	Nevada, Iowa
+Tama County, Iowa	Toledo, Iowa
+Taylor County, Iowa	Bedford, Iowa
+Union County, Iowa	Creston, Iowa
+Van Buren County, Iowa	Keosauqua, Iowa
+Wapello County, Iowa	Ottumwa, Iowa
+Warren County, Iowa	Indianola, Iowa
+Washington County, Iowa	Washington, Iowa
+Wayne County, Iowa	Corydon, Iowa
+Webster County, Iowa	Fort Dodge, Iowa
+Winnebago County, Iowa	Forest City, Iowa
+Winneshiek County, Iowa	Decorah, Iowa
+Woodbury County, Iowa	Sioux City, Iowa
+Worth County, Iowa	Northwood, Iowa
+Wright County, Iowa

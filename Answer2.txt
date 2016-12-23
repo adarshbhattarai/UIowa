@@ -1,0 +1,25 @@
+I wrote an java application to answer the following questions. Exercise_2 is the java code for it.
+Under doc folder are the test_data.csv file and counties_iowa.txt file (the file containing 
+the total number of counties in iowa)
+Q.1)
+ How many counties did not send students to the U of Iowa, 
+ and which counties were they?
+ 
+ Ans :-> 8 counties did not send students to the U of Iowa,
+ They are Clarke, Wayne, Monona, Calhoun, Ida, Taylor, Ringgold and Grundy.
+ 
+ Q.2)
+ Which counties send the most students to the U of Iowa per capitia?
+ 
+ Ans:-> Johnson County send the most students to the U of Iowa.
+ 
+ Q.3)
+ Identify something "interesting" in the data.
+ 
+ Ans-> 
+ The data is itself interesting to work on. 
+ 1)None of  the students are residing to a county where none of the students
+ Home county belong to.
+ i.e Every student residing in a different county other than
+ their home county, is a home county of atleast one other student.
+ 
